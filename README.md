@@ -5,6 +5,8 @@ Reinforcement Learning (RL) is a branch of machine learning where an agent learn
 
 these are project implementation from beginner to master
 
+these  projects include every optimisation algotithms
+
 
 
 https://github.com/user-attachments/assets/fb1bd14d-892c-49ff-accc-d452e8ab81b7
