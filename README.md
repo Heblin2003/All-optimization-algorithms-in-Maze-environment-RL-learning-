@@ -13,3 +13,5 @@ https://github.com/user-attachments/assets/fb1bd14d-892c-49ff-accc-d452e8ab81b7
 
 This is a maze environment where the agent take random action in environment to acheive a goal state
 here are some projects for optimize learning
+
+....
