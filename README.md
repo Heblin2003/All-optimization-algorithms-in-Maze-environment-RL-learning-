@@ -6,13 +6,21 @@ Reinforcement Learning (RL) is a branch of machine learning where an agent learn
 It include hands-on implementation projects on optimisation algotithms on 5x5 grid maze environment where the agents learn optimized approaches to acheive the goals state. Some of the optimization methods used are:
 
 Value iteration
+
 policy iteration
+
 on-policy mc control
+
 on-policy with alpha
+
 off-policy mc control
+
 sarsa algorithm
+
 n-step sarsa algorithm
+
 q-learning algorithm
+
 
 This is the outcome of the maze environment where the agent use random actions to reach the goal.
 
